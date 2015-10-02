@@ -1,0 +1,11 @@
+{
+    "name": "josecelano/destinia-kata",
+    "require-dev": {
+        "phpunit/phpunit": "^4.8"
+    },
+    "autoload": {
+      "psr-0": {
+        "JoseCelano": "src/"
+      }
+    }
+}
